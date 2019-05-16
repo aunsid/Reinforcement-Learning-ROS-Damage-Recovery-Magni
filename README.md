@@ -31,7 +31,7 @@ rosrun rl expfast
 ## Algorithm
 
 <figure>
- <img src="./Images/basicQlearning.png" width="712" alt="Combined Image" />
+ <img src="./images/basicQlearning.png" width="712" alt="Combined Image" />
  <figcaption>
  <p></p> 
  </figcaption>
@@ -40,7 +40,7 @@ rosrun rl expfast
 State Calculation
 
 <figure>
- <img src="./Images/state.png" width="712" alt="Combined Image" />
+ <img src="./images/state.png" width="712" alt="Combined Image" />
  <figcaption>
  <p></p> 
  </figcaption>
@@ -50,7 +50,7 @@ State Calculation
 ## Optimizations
 
 <figure>
- <img src="./Images/optimization.png" width="712" alt="Combined Image" />
+ <img src="./images/optimization.png" width="712" alt="Combined Image" />
  <figcaption>
  <p></p> 
  </figcaption>
@@ -61,7 +61,7 @@ State Calculation
 ## Results
 
 <figure>
- <img src="./Images/trainTest.png" width="712" alt="Combined Image" />
+ <img src="./images/trainTest.png" width="712" alt="Combined Image" />
  <figcaption>
  <p></p> 
  </figcaption>
